@@ -28,10 +28,6 @@
 
 # 🚀 **LAUNCHING SEPTEMBER 1, 2026**
 
-<p>
-  <img src="https://img.shields.io/badge/SEPTEMBER%201-2026-000000?style=for-the-badge&labelColor=1D9BF0&color=000000" alt="Launch September 1 2026">
-  <img src="https://img.shields.io/badge/THE%20FINANCIAL%20LAYER%20OF%20𝕏-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" alt="The Financial Layer of X">
-</p>
 
 ### **One wallet. One identity. Everything moves.**
 
@@ -40,8 +36,6 @@
 ---
 
 # ✦ **XALLET IS COMING** ✦
-
-## **September 1, 2026**
 
 The wallet built for the **𝕏-native internet** launches **September 1, 2026**.
 
@@ -69,8 +63,6 @@ Xallet is designed to bring **cash, stocks, cryptocurrency, memecoins, and digit
                         MEMECOINS
 ```
 
-### **September 1.**
-<div align="center">
 
 # 𝕏 XALLET
 
