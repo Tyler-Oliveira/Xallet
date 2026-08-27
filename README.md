@@ -35,11 +35,11 @@
 
 ---
 
-# ✦ **XALLET IS COMING** ✦
+# ✦ **𝕏ALLET IS COMING** ✦
 
 The wallet built for the **𝕏-native internet** launches **September 1, 2026**.
 
-Xallet is designed to bring **cash, stocks, cryptocurrency, memecoins, and digital assets** into a unified financial experience built around 𝕏.
+𝕏ALLET is designed to bring **cash, stocks, cryptocurrency, memecoins, and digital assets** into a unified financial experience built around 𝕏.
 
 ```text
                   𝕏
@@ -52,7 +52,7 @@ Xallet is designed to bring **cash, stocks, cryptocurrency, memecoins, and digit
                   │
                   ▼
               ┌───────┐
-              │ XALLET│
+              │ 𝕏ALLET│
               └───┬───┘
                   │
         ┌─────────┼─────────┐
@@ -64,26 +64,11 @@ Xallet is designed to bring **cash, stocks, cryptocurrency, memecoins, and digit
 ```
 
 
-# 𝕏 XALLET
-
-### **THE WALLET BUILT FOR 𝕏**
-
-<p>
-  <img src="https://img.shields.io/badge/𝕏-POWERED-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" alt="X Powered">
-  <img src="https://img.shields.io/badge/BLOCKCHAIN-ENABLED-000000?style=for-the-badge&labelColor=1D9BF0&color=000000" alt="Blockchain Enabled">
-  <img src="https://img.shields.io/badge/MULTI--ASSET-WALLET-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" alt="Multi Asset Wallet">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/CASH-SEND-000000?style=for-the-badge&labelColor=22C55E&color=000000" alt="Send Cash">
-  <img src="https://img.shields.io/badge/STOCKS-TRADE-000000?style=for-the-badge&labelColor=3B82F6&color=000000" alt="Trade Stocks">
-  <img src="https://img.shields.io/badge/MEMECOINS-TRADE-000000?style=for-the-badge&labelColor=A855F7&color=000000" alt="Trade Memecoins">
-  <img src="https://img.shields.io/badge/CRYPTO-SEND-000000?style=for-the-badge&labelColor=F59E0B&color=000000" alt="Send Crypto">
-</p>
+# 𝕏 𝕏ALLET
 
 ### **Your wallet. Your money. Your assets. Your 𝕏.**
 
-**Xallet** is an X-native, blockchain-enabled wallet designed to bring **cash, stocks, cryptocurrencies, memecoins, and digital assets directly into the social layer of 𝕏.**
+**𝕏ALLET** is an X-native, blockchain-enabled wallet designed to bring **cash, stocks, cryptocurrencies, memecoins, and digital assets directly into the social layer of 𝕏.**
 
 No switching between apps.
 
@@ -95,9 +80,9 @@ No fragmented financial identities.
 
 ---
 
-# ✦ What Is Xallet?
+# ✦ What Is 𝕏ALLET?
 
-**Xallet** is a next-generation financial wallet built around the idea that **social communication and financial activity should exist in the same place.**
+**𝕏ALLET** is a next-generation financial wallet built around the idea that **social communication and financial activity should exist in the same place.**
 
 The internet already gave us:
 
@@ -107,13 +92,13 @@ The internet already gave us:
 - Crypto
 - Online trading
 
-Xallet brings them together around **𝕏**.
+𝕏ALLET brings them together around **𝕏**.
 
 The vision:
 
 > **If you can post it, message it, or discover it on 𝕏 — you should be able to transact around it.**
 
-Xallet is designed as the financial layer for an X-native internet.
+𝕏ALLET is designed as the financial layer for an X-native internet.
 
 ---
 
@@ -135,7 +120,7 @@ Then you:
 
 **Leave 𝕏 → Open another app → Find the asset → Authenticate → Transact → Return to 𝕏**
 
-Xallet flips that workflow.
+𝕏ALLET flips that workflow.
 
 ```text
               𝕏
@@ -148,7 +133,7 @@ Xallet flips that workflow.
        └──────┼──────┘
               │
               ▼
-           XALLET
+           𝕏ALLET
               │
               ▼
         YOUR FINANCIAL
@@ -232,7 +217,7 @@ Send it.
 
 # ✦ THE FIRST WALLET BUILT AROUND 𝕏 ✦
 
-Xallet isn't simply another crypto wallet with an X logo.
+𝕏ALLET isn't simply another crypto wallet with an X logo.
 
 The goal is fundamentally different:
 
@@ -244,7 +229,7 @@ Instead of:
 Wallet → Social Network
 ```
 
-Xallet is designed around:
+𝕏ALLET is designed around:
 
 ```text
 Social Network
@@ -312,7 +297,7 @@ Traditional wallets make users deal with long, unfamiliar addresses.
 0x8A7F...92D1
 ```
 
-Xallet is designed around human-readable social identity.
+𝕏ALLET is designed around human-readable social identity.
 
 ```text
 @username
@@ -330,7 +315,7 @@ Someone posts:
 
 > **This token is interesting.**
 
-Xallet can turn that discovery into an actionable financial workflow.
+𝕏ALLET can turn that discovery into an actionable financial workflow.
 
 ```text
 POST
@@ -339,7 +324,7 @@ POST
 ASSET
  │
  ▼
-XALLET
+𝕏ALLET
  │
  ├── VIEW
  ├── ANALYZE
@@ -370,7 +355,7 @@ They emerge from:
 
 Their primary discovery mechanism is increasingly social.
 
-Xallet is designed for that reality.
+𝕏ALLET is designed for that reality.
 
 ### **See it on 𝕏.**
 
@@ -388,11 +373,11 @@ Xallet is designed for that reality.
 
 Your financial world shouldn't require five different applications.
 
-Xallet aims to unify:
+𝕏ALLET aims to unify:
 
 ```text
 ╔════════════════════════════════════╗
-║             XALLET                 ║
+║             𝕏ALLET                 ║
 ╠════════════════════════════════════╣
 ║                                    ║
 ║  💵 Cash                           ║
@@ -424,7 +409,7 @@ The internet moves at the speed of a post.
 
 Financial infrastructure shouldn't require ten screens to catch up.
 
-Xallet is designed around:
+𝕏ALLET is designed around:
 
 - ⚡ Fast transactions
 - ⚡ Minimal friction
@@ -438,7 +423,7 @@ Xallet is designed around:
 
 # ✦ BLOCKCHAIN INFRASTRUCTURE ✦
 
-Xallet is designed to provide blockchain functionality underneath an intuitive social interface.
+𝕏ALLET is designed to provide blockchain functionality underneath an intuitive social interface.
 
 Core infrastructure can include:
 
@@ -459,7 +444,7 @@ The blockchain should be the infrastructure.
 
 ---
 
-# ✦ THE XALLET STACK ✦
+# ✦ THE 𝕏ALLET STACK ✦
 
 ```text
                     ┌─────────────┐
@@ -469,7 +454,7 @@ The blockchain should be the infrastructure.
                            │
                            ▼
                   ┌─────────────────┐
-                  │     XALLET      │
+                  │     𝕏ALLET      │
                   │ FINANCIAL LAYER │
                   └────────┬────────┘
                            │
@@ -491,7 +476,7 @@ The blockchain should be the infrastructure.
 
 A wallet handling real financial assets must treat security as a first-class system requirement.
 
-Xallet is designed with security considerations around:
+𝕏ALLET is designed with security considerations around:
 
 - Private key protection
 - Transaction authorization
@@ -535,7 +520,7 @@ They already send money digitally.
 
 They already trade tokens based on internet culture.
 
-Xallet asks:
+𝕏ALLET asks:
 
 > **What happens when the wallet is native to the social network itself?**
 
@@ -570,7 +555,7 @@ Clone the repository:
 ```bash
 git clone <YOUR_REPOSITORY_URL>
 
-cd Xallet
+cd 𝕏ALLET
 ```
 
 Install dependencies:
@@ -599,7 +584,7 @@ Social networks made information social.
 
 Blockchain made value programmable.
 
-Xallet is an experiment in combining all three.
+𝕏ALLET is an experiment in combining all three.
 
 ```text
 INFORMATION
@@ -608,14 +593,14 @@ SOCIAL GRAPH
      +
 PROGRAMMABLE VALUE
      =
-     XALLET
+     𝕏ALLET
 ```
 
 ---
 
 # ✦ DISCLAIMER ✦
 
-Xallet is software infrastructure and should not be interpreted as financial advice.
+𝕏ALLET is software infrastructure and should not be interpreted as financial advice.
 
 Trading stocks, cryptocurrencies, and memecoins involves substantial risk, including the potential loss of capital.
 
