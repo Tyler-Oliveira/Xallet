@@ -17,6 +17,13 @@
   <img src="https://img.shields.io/badge/CRYPTO-SEND-000000?style=for-the-badge&labelColor=F59E0B&color=000000" alt="Send Crypto">
 </p>
 
+<p>
+  <sub>✦ AUTHORED BY ✦</sub><br>
+  <a href="https://github.com/0x-Ricker"><strong>0x-Ricker</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Tyler-Oliveira"><strong>Tyler-Oliveira</strong></a>
+</p>
+
 <br>
 
 # 🚀 **LAUNCHING SEPTEMBER 1, 2026**
