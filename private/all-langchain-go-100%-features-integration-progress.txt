@@ -2,7 +2,7 @@ langchain-go (tmc/langchaingo v0.1.14) - 100% Feature Integration Progress
 kdeps integration target: pkg/executor/llm/ + pkg/agent/ + new resource types
 Last updated: 2026-06-17 (P11, 1389+ tests, Bedrock/WatsonX/Cybertron/Redis done)
 
-Legend: [DONE] [IN-PROGRESS] [PLANNED] [N/A-BLOCKED] [SKIP]
+Legend: [DONE] [IN-PROGRESS] [PLANNED] [N/A-BLOCKED] [SKIP] 
 Score = % of feature surface implemented in kdeps
 
 ==============================================================================
