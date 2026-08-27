@@ -64,7 +64,7 @@ The wallet built for the **𝕏-native internet** launches **September 1, 2026**
 ```
 
 
-# 𝕏 𝕏ALLET
+# 𝕏�ALLET
 
 ### **Your wallet. Your money. Your assets. Your 𝕏.**
 
